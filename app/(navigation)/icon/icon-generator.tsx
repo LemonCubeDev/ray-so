@@ -81,6 +81,13 @@ const presets: PresetType[] = [
     iconColor: "#FFFFFF",
   },
   {
+    backgroundFillType: "Solid",
+    backgroundStartColor: "transparent",
+    backgroundEndColor: "transparent",
+    backgroundAngle: 45,
+    iconColor: "#0dabe4",
+  },
+  {
     backgroundFillType: "Linear",
     backgroundStartColor: "#99F2C8",
     backgroundEndColor: "#1F4037",
