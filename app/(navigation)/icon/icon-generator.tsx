@@ -308,7 +308,7 @@ export const IconGenerator = () => {
       backgroundPosition: "50%,0%",
       backgroundSpread: 100,
       backgroundAngle: 0,
-      iconSize: 352,
+      iconSize: 512,
       iconOffsetX: 0,
       iconOffsetY: 0,
       selectedPresetIndex: defaultPresetIndex,
