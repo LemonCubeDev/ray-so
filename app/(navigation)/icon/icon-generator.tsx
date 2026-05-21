@@ -305,7 +305,6 @@ export const IconGenerator = () => {
     const baseSettings: SettingsType = {
       fileName: "extension_icon",
       icon: defaultIcon,
-      backgroundOpacity: 50,
       backgroundRadius: 128,
       backgroundStrokeSize: 0,
       backgroundStrokeColor: "#FFFFFF",
